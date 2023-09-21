@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sabinonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabinonweb" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/sabinonweb](https://www.linkedin.com/in/sabin-ranabhat-443693276/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabinonweb" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sabin-ranabhat-443693276/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabinonweb" height="30" width="40" /></a>
 <a href="https://fb.com/sabinonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabinonweb" height="30" width="40" /></a>
 <a href="https://instagram.com/sabinonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabinonweb" height="30" width="40" /></a>
 </p>
