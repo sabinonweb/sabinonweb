@@ -3,7 +3,7 @@
 
 - At the moment: **Getting a little rusty and getting my hand dirty!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
