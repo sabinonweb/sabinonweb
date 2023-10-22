@@ -4,6 +4,5 @@
 - At the moment: **Getting a little rusty and getting my hand dirty!**
 
 
-<p align="left">
 </p>
 
