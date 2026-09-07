@@ -2,9 +2,9 @@
 
 > "When I understand myself, I understand you, and out of that understanding comes love." — J.K.
 
-I'm currently loving it at [ampixa labs](https://ampixa.com/) && [weft labs](https://github.com/weftlab) && [async bananas](https://www.instagram.com/async.bananas)
-📝 I sometimes write [musings](https://sabinonweb.github.io/webissabin/musings/) — poems, rants, notes to self
-🦀 currently reading *Zero to Production in Rust*, building things, breaking things, trying to understand why they work
+I'm currently loving it at [ampixa labs](https://ampixa.com/) && [weft labs](https://github.com/weftlab) && [async bananas](https://www.instagram.com/async.bananas) \
+I sometimes write [musings](https://sabinonweb.github.io/webissabin/musings/) — poems, rants, notes to self
+currently building things, breaking things, trying to understand why they work
 
 ```bash
 $ whoami
