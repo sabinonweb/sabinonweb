@@ -26,6 +26,7 @@ ampixa-labs/   weft-labs/   async-bananas/
 
 ### a week of curiosity
 
-- [Week #1 of Curiosity](https://sabinonweb.github.io/webissabin/curiosity/week1/)
+- [Week #1 of Curiosity](https://sabinranabhat.com.np/curiosity/week1/)
+- [Week #1 of Curiosity](https://sabinranabhat.com.np/curiosity/week2/)
 
 → the whole आँट at the [curiosity archive](https://sabinonweb.github.io/webissabin/curiosity/)
