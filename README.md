@@ -12,7 +12,7 @@ sabinonweb — trying to put my nation and its languages
 with the pen and the pad
 
 $ ls ./love
-[ampixa-labs/](https://ampixa.com/)   [weft-labs/](github.com/weft)   [async-bananas/](instagram.com/async.bananas)
+ampixa-labs/   weft-labs/   async-bananas/
 ```
 
 ### a week of curiosity
