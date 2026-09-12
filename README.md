@@ -12,8 +12,15 @@ sabinonweb — trying to put my nation and its languages
 with the pen and the pad
 
 $ ls ./love
-ampixa-labs/   weft-labs/   async-bananas/
+[ampixa-labs/](https://ampixa.com/)   [weft-labs/](github.com/weft)   [async-bananas/](instagram.com/async.bananas)
 ```
+
+### a week of curiosity
+
+- [Week #2 of Curiosity](https://sabinranabhat.com.np/curiosity/week2/)
+- [Week #1 of Curiosity](https://sabinranabhat.com.np/curiosity/week1/)
+
+→ the whole आँट at the [curiosity archive](https://sabinonweb.github.io/webissabin/curiosity/)
 
 ### recent musings
 
@@ -24,9 +31,3 @@ ampixa-labs/   weft-labs/   async-bananas/
 
 → the whole pile lives at [sabinonweb stdout](https://sabinonweb.github.io/webissabin/)
 
-### a week of curiosity
-
-- [Week #2 of Curiosity](https://sabinranabhat.com.np/curiosity/week2/)
-- [Week #1 of Curiosity](https://sabinranabhat.com.np/curiosity/week1/)
-
-→ the whole आँट at the [curiosity archive](https://sabinonweb.github.io/webissabin/curiosity/)
