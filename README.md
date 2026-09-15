@@ -17,6 +17,7 @@ ampixa-labs/   weft-labs/   async-bananas/
 
 ### a week of curiosity
 
+- [Week #3 of Curiosity](https://sabinranabhat.com.np/curiosity/week3/)
 - [Week #2 of Curiosity](https://sabinranabhat.com.np/curiosity/week2/)
 - [Week #1 of Curiosity](https://sabinranabhat.com.np/curiosity/week1/)
 
