@@ -23,7 +23,7 @@ ampixa-labs/   weft-labs/   async-bananas/
 - [Week #2 of Curiosity](https://sabinonweb.tech/curiosity/week2/)
 - [Week #1 of Curiosity](https://sabinonweb.tech/curiosity/week1/)
 
-→ the whole आँट at the [curiosity archive](https://sabinonweb.tech/webissabin/curiosity/)
+→ the whole आँट at the [curiosity archive](https://sabinonweb.tech/curiosity/)
 
 ### recent musings
 
